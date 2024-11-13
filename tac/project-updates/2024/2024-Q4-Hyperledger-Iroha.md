@@ -50,9 +50,8 @@ The video recordings of the community calls are uploaded into LF wiki and are av
 
 Since the last update, the composition of the Iroha 2 maintainers has changed significantly. For the most up-to-date information, please refer to the [Maintainers list](https://github.com/hyperledger-iroha/iroha/blob/main/MAINTAINERS.md).
 
-Iroha Team had acquired 2 new members: Dmitri Murzin has joined the Iroha 2 team as a Rust developer, while Mykhailo Lohachov, who initially contributed to the project as a community contributor, has now joined the team as an intern.
-In addition, Alexandra Zorina (Tech. Writer) joined the team. 
-Also, Nurzhan (Community manager has left), along with Roman Shanin (snr Rust Developer)
+Iroha Team acquired 3 new members. Dmitri Murzin has joined the team as a Rust developer, while Mykhailo Lohachov, who initially contributed to the project as a community contributor, has now joined the team as a Rust development intern. In addition, Alexandra Zorina, a Technical Writer, joined the team. 
+Also, Nurzhan, a Community manager, along with Roman, a Rust Developer, have left the team.
 
 
 # Contributor Diversity
